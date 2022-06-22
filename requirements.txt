@@ -1,5 +1,5 @@
 ta_lib==0.4.17
-numpy==1.17.2
+numpy==1.22.0
 pandas==1.0.3
 Quandl==3.4.8
 scikit_learn==0.23.2
